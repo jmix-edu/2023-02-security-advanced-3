@@ -30,4 +30,7 @@
       </entry>
     </moduleSettings>
   </component>
+  <component name="JmixLiquibaseChangesConfig">
+    <exclude-change idName="PERSISTENT_LOGINS" tagName="dropTable" />
+  </component>
 </project>

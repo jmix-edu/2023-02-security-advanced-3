@@ -11,7 +11,7 @@
                 icon="GOOGLE"/>
         <action id="loginGitHub"
                 caption="Login using GitHub"
-                icon="GOOGLE"/>
+                icon="GITHUB"/>
     </actions>
 
     <layout stylename="jmix-login-main-layout">
